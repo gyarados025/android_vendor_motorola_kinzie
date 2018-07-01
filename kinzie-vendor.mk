@@ -38,4 +38,5 @@ PRODUCT_PACKAGES += \
     GCS \
     LifetimeData \
     qcrilmsgtunnel \
+    LauncherConfig \
     SprintDM
